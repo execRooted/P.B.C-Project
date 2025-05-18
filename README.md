@@ -66,7 +66,7 @@ Now it defaults to the main menu.
 
 
 
-##Password strenght example
+## Password strenght example
 
 Enter your password to check its strength: !@##I_Like_Github!@##!
 Password Strength: Strong. Your password is strong!
@@ -77,7 +77,7 @@ Now it defaults to the main menu
 
 ---
 
-##Exit option
+## Exit option
 
 This option closes the program. Not much to say here.
 
