@@ -1,6 +1,6 @@
-##P.B.C. Project: 
+##P.B.C. Project: Password Breach Checker ##
 
-##Instalation
+##Instalation ##
 
 
 ### Prerequisites
