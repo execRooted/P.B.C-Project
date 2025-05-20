@@ -11,7 +11,7 @@ Before you begin, ensure that you have Python 3.x and pip installed on your syst
 If you haven't already, clone or download the project to your local machine:
 
 
-```git clone https://github.com/execRooted/P.B.C-Project.git```
+  git clone https://github.com/execRooted/P.B.C-Project.git
 
 Open a CMD as admin, in the same location as the repository and type in:
 
